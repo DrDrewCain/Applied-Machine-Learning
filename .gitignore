@@ -1,1 +1,2 @@
-.faces
+# gitignore the faces folder
+echo "faces/" >> .gitignore
